@@ -1,0 +1,19 @@
+.Min{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    background-color: cadetblue;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#ola{
+    color: crimson;
+    font-size: 10vw;
+}
+
