@@ -16,4 +16,6 @@
     color: crimson;
     font-size: 10vw;
 }
-
+body{
+    heigt: 100vh;
+}
